@@ -1,0 +1,9 @@
+15:36:38 **** Incremental Build of configuration Nios II for project simplified_tcp ****
+make all 
+Info: Building ../simplified_tcp_bsp/
+C:/altera/15.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../simplified_tcp_bsp/
+[BSP build complete]
+[simplified_tcp build complete]
+
+15:36:39 Build Finished (took 1s.18ms)
+
